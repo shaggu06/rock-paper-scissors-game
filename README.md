@@ -13,11 +13,30 @@ A simple interactive Rock Paper Scissors game made with:
 - Clone this repository.
 - Open `index.html` in a web browser.
 
-## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-game.git
+## Installation
+
+No installation is required. Simply download the project files and open index.html in any modern web browser.
+
+## File Structure
+
+rock-paper-scissors/
+│-- index.html  (Main HTML file)
+│-- style.css   (CSS file for styling)
+│-- script.js   (JavaScript file for game logic)
+
+### Future Enhancements
+
+-Add animations for a better user experience.
+-Implement a scoring system.
+-Allow players to play multiple rounds.
+-Add sound effects.
+
+
+### License
+
+This project is open-source and free to use.
+
 
  
 
